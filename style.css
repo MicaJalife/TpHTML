@@ -1,0 +1,93 @@
+
+#juanitaImagen{
+    margin: 20px;
+    padding: 20px;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+#encabezado {
+    margin: 0px auto;
+    width: 100%;
+}
+ 
+#header {
+     
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 4px 4px;
+    background-color: #541212;
+    font-weight:bolder;
+    
+}
+#juanitaTexto{
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
+    color: #ffffff;
+    float: left;
+    margin-top: 35px;
+}
+
+body {
+    margin-top: 0;
+    padding: 160px 0 0 0;
+}
+.cajitas{
+    padding-top: 2px;
+    background-color: #EEEEEE;
+    width: 100%;
+    border-color: #0F0E0E;
+    border-style: dotted;
+    border-width: thick;
+    border-left: 10%;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    display:inline-block;
+}
+
+table {
+    width: 100%;    
+}
+
+.platos{
+    float: left;
+}
+
+.imagenes{
+    margin-right: 0%;
+    margin-top: 0%;
+    display: block;
+    margin: 0px auto;
+}
+
+ul{
+    list-style-type: square;
+  }
+
+h2{
+    font-size: large;
+    font-family: 'Dela Gothic One';
+    padding-left: 5%;
+    letter-spacing: 2px;
+}
+
+
+p.nombrePlato{
+    padding-left: 3%;
+    padding-right: 2%;
+    font-size: larger; 
+    font-weight: bold;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+p.ingredientes{
+    font-size: large; 
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align:right;
+    width: 40%;
+    word-wrap: break-word;
+}
+
